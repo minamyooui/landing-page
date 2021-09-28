@@ -110,7 +110,7 @@ body {
 .box2 .content {
   display: flex;
   justify-content: center;
-  gap: 20px;
+  gap: 50px;
 }
 
 .box2 .content-box {
