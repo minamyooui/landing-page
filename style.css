@@ -99,7 +99,7 @@ body {
   display: flex;
   flex-direction: column;
   text-align: center;
-  padding: 40px 270px; 
+  padding: 50px 270px 100px 270px; 
 }
 
 .box2 h2 {
@@ -131,7 +131,7 @@ body {
 
 .box3 {
   background-color: #E5E7EB;
-  padding: 100px 270px 50px 270px; 
+  padding: 120px 270px 80px 270px; 
 }
 
 .box3 .content {
@@ -144,12 +144,14 @@ body {
   font-weight: lighter;
   font-style: italic;
   color: #1f2937;
+  margin: 0;
+  padding: 0;
 }
 
 .box3 .author {
   align-self: flex-end;
   font-style: normal;
-  font-size: 28px;
+  font-size: 24px;
   font-weight: bold;
   margin-right: 20px;
 }
